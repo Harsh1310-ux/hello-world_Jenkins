@@ -17,7 +17,7 @@
     <br>
 
     <label for="email"><b>Enter Your Adderess</b></label>
-    <input type="text" placeholder="Enter Adderess" name="adderess" id="adderess" required>
+    <input type="text" placeholder="Enter Full Adderess" name="adderess" id="adderess" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
